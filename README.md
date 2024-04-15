@@ -1,3 +1,5 @@
+## NAME: ROHITH V
+## REG NO : 212223040174 
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
@@ -118,13 +120,6 @@ if(NUM_LOOPS>=10)    {
 
 
 ```
-
-Developed By : ROHITH.V
-
-Register Number:212223040174
-
-
-
 ## OUTPUT
 $ ./sem.o 
 ![Screenshot 2024-04-03 192140](https://github.com/ARCH2006/Linux-IPC-Semaphores/assets/144300030/fd5c69a5-6d50-4c99-b76a-677c858c0391)
